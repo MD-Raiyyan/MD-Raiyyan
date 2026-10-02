@@ -13,7 +13,7 @@ I’m a **Computer Science and Engineering student at Ramaiah Institute of Techn
 ### Languages & Web Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,php,nodejs&perline=8" alt="Java, Python, C, JavaScript, HTML, CSS, PHP, and Node.js skill icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css,php,nodejs&perline=8" alt="Java, Python, C, JavaScript, TypeScript, HTML, CSS, PHP, and Node.js skill icons" />
 </p>
 
 ### Databases
