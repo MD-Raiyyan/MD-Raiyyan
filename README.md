@@ -1,5 +1,5 @@
 # Hi, I'm Mohammed Raiyyan Bepari 👋
-<img width="309" height="275" alt="Screenshot 2026-10-02 at 3 14 44 PM" src="https://github.com/user-attachments/assets/563ec082-ddcc-426f-b22f-01b9525b7d33" /><img width="498" height="280" alt="_" src="https://github.com/user-attachments/assets/5b0b7c88-9301-480e-a775-c3c79f38fce6" />
+<img width="309" height="275" alt="Screenshot 2026-10-02 at 3 14 44 PM" src="https://github.com/user-attachments/assets/563ec082-ddcc-426f-b22f-01b9525b7d33" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="318" height="180" alt="_" src="https://github.com/user-attachments/assets/5b0b7c88-9301-480e-a775-c3c79f38fce6" />
 
 I’m a **Computer Science and Engineering student at Ramaiah Institute of Technology** with a strong interest in software development, data structures and algorithms, database management, and practical problem solving.
 
