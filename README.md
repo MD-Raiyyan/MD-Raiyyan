@@ -46,8 +46,8 @@ An AI-based personalized news platform designed to provide a cleaner reading exp
 ### Smart City Complaint Management System
 A modular system for simulating and managing urban infrastructure using object-oriented programming principles, with reusable components for municipal data processing and system organization.
 
-### FlyCab
-An interactive web application for visualizing flying-taxi routes using map markers and route displays, with distance-based fare calculation and user trip-history functionality.
+### FocusLoop
+An Android-first personal productivity and behavioral-learning app that turns behavior data into understanding, experiments, measurement, and improvement, with a React Native/Expo mobile frontend, FastAPI backend, deterministic behavior and pattern engines, and AI-assisted insights.
 
 ## Certifications
 
