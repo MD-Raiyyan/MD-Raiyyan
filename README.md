@@ -48,9 +48,9 @@ An interactive web application for visualizing flying-taxi routes using map mark
 ## Certifications
 
 - NPTEL — Database Management Systems
-- NPTEL — Python Full Stack Development
-- NPTEL — Introduction to Programming Using Python
-- NPTEL — Introduction to Programming Using JavaScript
+- SOFTMUSK PVT.LTD — Python Full Stack Development
+- PROGRAMING HUB — Introduction to Programming Using Python
+- PROGRAMING HUB — Introduction to Programming Using JavaScript
 
 ## Activities
 
