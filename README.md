@@ -1,4 +1,4 @@
-<img width="736" height="705" alt="Log pose one piece" src="https://github.com/user-attachments/assets/0663f5ee-3d24-4a2b-9c7c-6ea35ae47067" />
+
 # Hi, I'm Mohammed Raiyyan Bepari 👋
 <img width="209" height="175" alt="Screenshot 2026-10-02 at 3 14 44 PM" src="https://github.com/user-attachments/assets/563ec082-ddcc-426f-b22f-01b9525b7d33" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="218" height="120" alt="_" src="https://github.com/user-attachments/assets/5b0b7c88-9301-480e-a775-c3c79f38fce6" />
 
