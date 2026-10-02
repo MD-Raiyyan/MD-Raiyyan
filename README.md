@@ -10,11 +10,29 @@ I’m a **Computer Science and Engineering student at Ramaiah Institute of Techn
 
 ## Technical Skills
 
-**Languages:** Java, Python, C, JavaScript  
-**Core concepts:** Object-Oriented Programming, Data Structures and Algorithms, Algorithm Analysis, Operating Systems, Computer Networks, Microcontrollers, Internet of Things  
-**Databases:** SQL, MySQL, MongoDB  
-**Web technologies:** HTML, CSS, JavaScript, PHP, Node.js, Leaflet.js  
-**Tools:** Git, GitHub, VS Code, Continuous Integration, GitHub Actions
+### Languages & Web Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,php,nodejs&perline=8" alt="Java, Python, C, JavaScript, HTML, CSS, PHP, and Node.js skill icons" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" alt="MySQL and MongoDB skill icons" />
+</p>
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,githubactions&perline=4" alt="Git, GitHub, Visual Studio Code, and GitHub Actions skill icons" />
+</p>
+
+### Core Concepts
+
+**Object-Oriented Programming · Data Structures and Algorithms · Algorithm Analysis · Operating Systems · Computer Networks · Microcontrollers · Internet of Things**
+
+**Additional technologies:** SQL · Continuous Integration · Leaflet.js
 
 ## Featured Projects
 
