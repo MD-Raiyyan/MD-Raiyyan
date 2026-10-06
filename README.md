@@ -65,5 +65,5 @@ An Android-first personal productivity and behavioral-learning app that turns be
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Raiyyan%20Bepari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contactraiyyanbepari/)
 [![GitHub](https://img.shields.io/badge/GitHub-MD--Raiyyan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MD-Raiyyan)
-[![Gmail](https://shields.io)](mailto:mohammedraiyyanbeparigmail.com)
+
 
